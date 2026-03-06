@@ -12,5 +12,5 @@ Usage:
   Address:Data1 Data 2 etc	-	Set bytes, starting at address
 	Address-DataWord			    -	Set word at address
   ROMAddressR (eg 300R)		  -	Execute code at ROM address		
-  [!Terminal screenshot](screenshot.png)
+  ![Terminal screenshot](screenshot.png)
 
